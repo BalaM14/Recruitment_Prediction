@@ -43,7 +43,7 @@ class DataForm:
         self.EducationLevel: Optional[str] = None
         self.RecruitmentStrategy: Optional[str] = None
         
-
+ 
     async def get_recruit_data(self):
         form = await self.request.form()
         self.Age = form.get("Age")
