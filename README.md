@@ -86,7 +86,7 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 136566696263.dkr.ecr.us-east-1.amazonaws.com/mlproject
+    - Save the URI: 992382744634.dkr.ecr.us-east-1.amazonaws.com/recruit_ecr
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
