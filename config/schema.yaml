@@ -1,0 +1,39 @@
+columns:
+  - Age: int
+  - ExperienceYears: int
+  - PreviousCompanies: int
+  - DistanceFromCompany: float64
+  - InterviewScore: int
+  - SkillScore: int
+  - PersonalityScore: int
+  - Gender: int
+  - EducationLevel: int
+  - RecruitmentStrategy: int
+  - HiringDecision: int
+
+numerical_columns:
+  - Age
+  - ExperienceYears
+  - PreviousCompanies
+  - DistanceFromCompany
+  - InterviewScore
+  - SkillScore
+  - PersonalityScore
+  - Gender
+  - EducationLevel
+  - RecruitmentStrategy
+  - HiringDecision
+
+
+# for data transformation
+num_features:
+  - Age
+  - ExperienceYears
+  - PreviousCompanies
+  - DistanceFromCompany
+  - InterviewScore
+  - SkillScore
+  - PersonalityScore
+  - Gender
+  - EducationLevel
+  - RecruitmentStrategy
